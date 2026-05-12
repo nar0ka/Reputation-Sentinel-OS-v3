@@ -1,7 +1,7 @@
 # Reputation Sentinel OS v3.0 🛡️
 
 ### 🛠 Architecture Preview
-![Reputation Sentinel OS v3.0](ReputationSentinelOSv3.0-ezgif.com-video-to-gif-converter (1).gif)
+![Reputation Sentinel OS v3.0](WRK.png)
 
 **The Premier Autonomous Brand Defense & Reputation Management System for n8n.**
 

@@ -1,5 +1,6 @@
 # Reputation Sentinel OS v3.0 🛡️
-
+### 🛠 Architecture Preview
+![Reputation Sentinel OS v3.0](ReputationSentinelOSv3.0-ezgif.com-video-to-gif-converter (1).gif)
 **The Premier Autonomous Brand Defense & Reputation Management System for n8n.**
 
 Reputation Sentinel OS v3.0 is a high-density architectural asset designed for Strategic Sovereignty. It transforms reactive PR into an autonomous, proactive digital fortress. This system replaces approximately $490,000 in annual human overhead by automating 80% of cognitive labor in reputation management.

@@ -30,11 +30,9 @@ This is a professional-grade technical blueprint. To acquire the master n8n JSON
 
 ### [👉 Acquire License on Gumroad](https://naroka.gumroad.com/l/ReputationSentinelOS)
 
-![Reputation Sentinel OS v3.01](Снимок экрана 2026-05-14 090531.png)
-
-![Reputation Sentinel OS v3.02](Снимок экрана 2026-05-14 090805.png)
-
-![Reputation Sentinel OS v3.03](Снимок экрана 2026-05-14 091138.png)
+![Reputation Sentinel OS v3.01](sentinel-01.png)
+![Reputation Sentinel OS v3.02](sentinel-02.png)
+![Reputation Sentinel OS v3.03](sentinel-03.png)
 
 ---
 *Developed by Naroka Automation Studios. Own the architecture. Own the defense.*
